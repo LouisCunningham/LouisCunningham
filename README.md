@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @LouisCunningham owner of Cunning Tech Group
 
-<!---
-
----
-
-# Cunning Tech Group
 
 Welcome to the Cunning Tech Group repository! We specialize in creating innovative web solutions that empower businesses and individuals. 
 Whether you need a stunning website, a robust web application, or seamless e-commerce functionality, we've got you covered.
@@ -65,4 +60,4 @@ Have questions or want to collaborate? Reach out to us at:
 Feel free to adapt this template to your company's specific details. Happy coding! 🚀
 
 
---->
+
