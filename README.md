@@ -9,7 +9,7 @@ Whether you need a stunning website, a robust web application, or seamless e-com
 - [About Us](#about-us)
 - [Services](#services)
 - [Technologies](#technologies)
-- [Getting Started](#getting-started)
+- 
 - [Contributing](#contributing)
 - [Contact](#contact)
 
