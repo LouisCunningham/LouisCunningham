@@ -51,8 +51,7 @@ We help small business owners establish a professional online presence through a
 ### 📫 Connect With Me
 
 * Website: https://cunningtechgroup.com
-* GitHub: https://github.com/YOURUSERNAME
-* LinkedIn: Add your LinkedIn profile here
+
 
 ### ⚡ Fun Facts
 
