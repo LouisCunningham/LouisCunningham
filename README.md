@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Louis Cunningham 👋
 
 ## Founder of Cunning Tech Group
